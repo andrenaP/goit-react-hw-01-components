@@ -1,0 +1,40 @@
+.profile{
+    width: 250px;
+    /* height: 300px; */
+    
+    border: dashed red;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin: auto;
+    background-color: antiquewhite;
+}
+.description{
+    padding: 30px;
+}
+.avatar{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: block;
+
+    padding-bottom: 10px;
+}
+
+.stats{
+    display: flex;
+    padding: 0;
+    gap: 10px;
+}
+.stats li{
+    width: 80px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    border: 10px;
+    border-color: black;
+}
