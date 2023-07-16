@@ -1,0 +1,11 @@
+.status{
+    width: 25px;
+    height: 25px;
+    display: block;
+        border-radius: 50%;
+}
+.item{
+    display: flex;
+    background-color: antiquewhite;
+    align-items: center;
+}

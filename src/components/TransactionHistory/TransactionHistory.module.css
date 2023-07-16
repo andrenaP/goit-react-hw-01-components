@@ -1,0 +1,10 @@
+.transaction_history{
+    margin: auto;
+    padding: 0;
+    width: 250px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border: thick double #32a1ce;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
