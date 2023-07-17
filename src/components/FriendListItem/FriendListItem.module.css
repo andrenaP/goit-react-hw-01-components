@@ -1,19 +1,19 @@
-.status{
-    width: 25px;
-    height: 25px;
-    display: block;
-        border-radius: 50%;
+.status {
+  width: 25px;
+  height: 25px;
+  display: block;
+  border-radius: 50%;
 }
-.item{
-    display: flex;
-    background-color: antiquewhite;
-    align-items: center;
-    gap: 20px;
+.item {
+  display: flex;
+  background-color: antiquewhite;
+  align-items: center;
+  gap: 20px;
 }
 
-.avatar{
-    border-radius: 50%;
-    background-color:aliceblue;
-    width: 50px;
-    height: 50px;
+.avatar {
+  border-radius: 50%;
+  background-color: aliceblue;
+  width: 50px;
+  height: 50px;
 }
